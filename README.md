@@ -1,4 +1,4 @@
 # mithelpdesk
 
 
-Developed and Maintained by Abhishek Rajput
+Maintained by Abhishek Rajput
