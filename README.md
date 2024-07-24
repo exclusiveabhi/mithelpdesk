@@ -45,4 +45,4 @@ MIT Help Desk is a web application designed for the students of Moradabad Instit
 
 ## Contact
 
-For any inquiries or issues, please contact Abhishek Rajput at [email@example.com](mailto:imexclusiveabhi@gmail.com).
+For any inquiries or issues, please contact Abhishek Rajput at [imexclusiveabhi@gmail.com](mailto:imexclusiveabhi@gmail.com).
